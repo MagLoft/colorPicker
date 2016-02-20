@@ -1,0 +1,8 @@
+{
+  "name": "colorPicker",
+  "version": "3.3.13",
+  "main": "javascript_implementation/jsColorPicker.min.js",
+  "scripts": [
+    "javascript_implementation/jsColorPicker.min.js"
+  ]
+}
